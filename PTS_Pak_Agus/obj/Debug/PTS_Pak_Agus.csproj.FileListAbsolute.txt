@@ -1,0 +1,12 @@
+C:\Users\TUF\source\repos\PTS_Pak_Agus\PTS_Pak_Agus\bin\Debug\PTS_Pak_Agus.exe.config
+C:\Users\TUF\source\repos\PTS_Pak_Agus\PTS_Pak_Agus\bin\Debug\PTS_Pak_Agus.exe
+C:\Users\TUF\source\repos\PTS_Pak_Agus\PTS_Pak_Agus\bin\Debug\PTS_Pak_Agus.pdb
+C:\Users\TUF\source\repos\PTS_Pak_Agus\PTS_Pak_Agus\obj\Debug\PTS_Pak_Agus.csproj.AssemblyReference.cache
+C:\Users\TUF\source\repos\PTS_Pak_Agus\PTS_Pak_Agus\obj\Debug\PTS_Pak_Agus.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF\source\repos\PTS_Pak_Agus\PTS_Pak_Agus\obj\Debug\PTS_Pak_Agus.Form1.resources
+C:\Users\TUF\source\repos\PTS_Pak_Agus\PTS_Pak_Agus\obj\Debug\PTS_Pak_Agus.Form2.resources
+C:\Users\TUF\source\repos\PTS_Pak_Agus\PTS_Pak_Agus\obj\Debug\PTS_Pak_Agus.Properties.Resources.resources
+C:\Users\TUF\source\repos\PTS_Pak_Agus\PTS_Pak_Agus\obj\Debug\PTS_Pak_Agus.csproj.GenerateResource.cache
+C:\Users\TUF\source\repos\PTS_Pak_Agus\PTS_Pak_Agus\obj\Debug\PTS_Pak_Agus.csproj.CoreCompileInputs.cache
+C:\Users\TUF\source\repos\PTS_Pak_Agus\PTS_Pak_Agus\obj\Debug\PTS_Pak_Agus.exe
+C:\Users\TUF\source\repos\PTS_Pak_Agus\PTS_Pak_Agus\obj\Debug\PTS_Pak_Agus.pdb
